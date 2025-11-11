@@ -6,7 +6,7 @@ Designed to be clean, minimal, and professional — optimized for both performan
 ---
 
 🚀 Live Demo
-👉 [https:/http://velan-dev.netlify.app](https://nature-cart.netlify.app/) 
+👉 [https:/http://velan-dev.netlify.app]
 
 
 ---
