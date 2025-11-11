@@ -1,19 +1,42 @@
-Velan Portfolio — Final (video-matched animations)
+#  Personal Portfolio — React + Vite
 
-How to run:
-1. npm install
-2. npm run dev
-3. Open http://localhost:5173
+A modern, responsive, and fast personal portfolio website built using **React + Vite**, showcasing my projects, skills, and experience as a **Full Stack Developer**.  
+Designed to be clean, minimal, and professional — optimized for both performance and presentation.
 
-What I tuned:
-- Typing effect on tagline (Typewriter component)
-- Precise Framer Motion delays, durations, and easing to match video-style timing
-- Floating animation on profile image
-- Staggered skill badges and project in-view triggers
-- Hover glow on CTA button
-- PostCSS configured for Tailwind v4 via @tailwindcss/postcss
+---
 
-Notes:
-- Replace project screenshot at public/projects/naturecart-placeholder.png with a real capture for best fidelity.
-- Profile image at src/assets/profile.jpg (already copied from your upload if present).
-- Resume at public/resume.pdf (copied if present).
+🚀 Live Demo
+👉 [https:/http://velan-dev.netlify.app/](https://nature-cart.netlify.app/) 
+
+
+---
+
+## 🧠 About This Project
+This portfolio was built to highlight my **technical skills**, **projects**, and **career journey** as a developer.  
+It’s fully responsive and built with the latest frontend technologies to ensure speed, interactivity, and scalability.
+
+---
+
+ Features
+- ⚡ **Built with Vite** — lightning-fast development and build times  
+- 🧩 **React Components** — modular and reusable design  
+- 🎨 **Tailwind CSS** — modern, responsive styling  
+- 🎥 **Framer Motion Animations** — smooth transitions and effects  
+- 📱 **Fully Responsive** — optimized for mobile, tablet, and desktop  
+- 🌐 **Deployed on GitHub Pages**  
+- 🧭 **SEO Friendly** — optimized structure and metadata
+
+---
+ Tech Stack
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | React, Vite, JavaScript, Tailwind CSS |
+| **Animation** | Framer Motion |
+| **Version Control** | Git, GitHub |
+| **Deployment** | Netlify |
+
+---
+
+💚 Built with care by **Velan P**  
+📧 [velan.stack@gmail.com](mailto:velan.stack@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/velan-fsd) • [GitHub](https://github.com/Velan-07)
